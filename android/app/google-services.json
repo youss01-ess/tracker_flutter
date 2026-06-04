@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "251803298171",
+    "project_id": "tracker-flutter-bcefb",
+    "storage_bucket": "tracker-flutter-bcefb.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:251803298171:android:72a4a3e6a253471d98b5de",
+        "android_client_info": {
+          "package_name": "ma.ac.esisa.tracker_flutter"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCzU7IV80Hh_zgQNe54CIY31yNrCjWYQYA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
